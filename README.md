@@ -69,9 +69,9 @@ Move the glassfish-resources.xml file from Configuration Files folder to Server 
 ### Some useful tutorials
 
 1. Connecting to a MySQL Database    
-https://netbeans.org/kb/docs/ide/mysql.html
+https://netbeans.org/kb/docs/ide/mysql.html(https://netbeans.org/kb/docs/ide/mysql.html)
 2. Creating a Simple Web Application Using a MySQL Database    
-https://netbeans.org/kb/docs/web/mysql-webapp.html#planStructure
+https://netbeans.org/kb/docs/web/mysql-webapp.html#planStructure(https://netbeans.org/kb/docs/ide/mysql.html)
 3. Example of Login Form in Servlet Tutorial    
 http://www.javatpoint.com/example-of-login-form-in-servlet
 4. How To Create A Simple Login Form Using Java Servlet And MySQL DB    
